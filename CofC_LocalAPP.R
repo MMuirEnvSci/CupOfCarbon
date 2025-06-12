@@ -1,4 +1,4 @@
-#Install R packages on first use (remove the # symbol in front of each line). These instructions can be ignored on subsequent uses by replacing the ~ symbols.
+#Install R packages on first use (remove the # symbol in front of each line). These instructions can be ignored on subsequent uses by replacing the "#" symbols.
 
 #install.packages("shiny")
 #install.packages("imager")
