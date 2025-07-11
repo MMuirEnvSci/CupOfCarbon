@@ -32,6 +32,7 @@ ui <- fluidPage(
       p("5. Use 'Redo Last Measurement' to reselect areas for the previous image."),
       p("6. Click 'Download Results as CSV' to save the results table."),
       p("7. Click 'Delete Last Line' to remove the last entry from the results table."),
+      p("(Please ensure your computer screen scale is set to 100 % for the region selection to work properly)"),
       actionButton("start_analysis", "Start Folder Analysis"),
       actionButton("next_image", "Skip to Next Image"),
       actionButton("redo_measurement", "Redo Last Measurement"),
